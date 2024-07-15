@@ -27,6 +27,6 @@ This project is a learning exercise aimed at creating an efficient and user-frie
 
 ## Live Demo
 
-Check out the live demo of the CRM Tool for Clients [here](https://).
+Check out the live demo of the CRM Tool for Clients [here](https://arturohdzg.github.io/JS-API-Weather-App/).
 
 Feel free to explore the code and provide feedback. Happy coding! 🚀
