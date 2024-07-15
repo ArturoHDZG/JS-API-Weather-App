@@ -2,7 +2,7 @@
 
 ## Description
 
-2024-07-13 **PROJECT START**
+2024-07-15 **PROJECT FINISHED**
 
 This project is a learning exercise aimed at creating an efficient and user-friendly system for querying and consuming weather data from the OpenWeather API. It allows users to access current weather conditions, ensuring accurate and timely information for various applications.
 
