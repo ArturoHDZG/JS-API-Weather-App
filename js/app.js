@@ -78,7 +78,7 @@ function insertAlert(message) {
  */
 function apiQuery(city, country) {
   const STATUS_CODE_OK = 200;
-  const API_KEY = process.env.OPEN_WEATHER_MAP_API_KEY;
+  const API_KEY = env.OPEN_WEATHER_MAP_API_KEY;
   const API_URL = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric`;
 
   loadSpinner();
