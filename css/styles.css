@@ -187,3 +187,9 @@ label[for="ciudad"],
 label[for="country"] {
   display: none;
 }
+
+.copyright {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
